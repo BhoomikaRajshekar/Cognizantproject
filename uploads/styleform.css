@@ -1,0 +1,37 @@
+h1
+{
+	background-color:#000000;
+	text-align:center;
+	color:#000000;
+	padding:15px;
+	margin-left:300px;
+	margin-right:300px;
+	
+}
+table,td,tr
+{
+	background-color:#4da6ff;
+	border-color:1px solid white;
+	border-collapse:collapse;
+	
+}
+form
+{
+	background-color:#ffcc99;
+	padding:30px;
+	margin-left:300px;
+	margin-right:300px;
+}
+
+label
+{
+	font-size:17px;
+	
+}
+table,tr,td
+{
+	border-width:1px solid white;
+}
+	
+
+	
